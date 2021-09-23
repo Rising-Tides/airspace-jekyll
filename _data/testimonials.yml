@@ -1,9 +1,9 @@
-- name: Rose Ray
-  title: CEO-Themefisher
-  testimonial: "This company created an e-commerce site with the tools to make our business a success, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
-  image: img/item-img1.jpg
-- name: Rose Ray sr.
-  title: CEO-Themefisher
+- name: Richard Nelson
+  title: Managing Partner
+  testimonial: "Richard Nelson is a peanut. He loves Rising Tides as much as he hates gluten. Outside of work, catch this mint-chocolate chip connoisseur at the Tenafly municipal basketball courts."
+  image: img/headshots/Richard.jpeg
+- name: Scott Einseidler
+  title: CEO
   testimonial: "An e-commerce site was created by this company with the tools to make our business a success, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
   image: img/item-img1.jpg
 - name: Rose Ray jr.

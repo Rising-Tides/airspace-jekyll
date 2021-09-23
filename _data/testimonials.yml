@@ -1,16 +1,33 @@
-- name: Rose Ray
-  title: CEO-Themefisher
-  testimonial: "This company created an e-commerce site with the tools to make our business a success, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
-  image: img/item-img1.jpg
 - name: Richard Nelson
-  title: COO
-  testimonial: "An e-commerce site was created by this company with the tools to make our business a success, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
+  title: Managing Partner
+  testimonial: "Richard Nelson is a peanut. He loves Rising Tides as much as he hates gluten. Outside of work, catch this mint-chocolate chip connoisseur at the Tenafly municipal basketball courts."
+  image: img/headshots/Richard.jpeg
+- name: Scott Einseidler
+  title: CEO
+  testimonial: "Scott Einsidler is a co-founder and technical lead of the Rising Tides Research Group. Scott studied Applied Mathematics at Tufts University, where he exposed himself to the applications of the more recent developments in mathematics in the fields of machine learning, computation theory, and cryptography. When he's not developing smart contracts, Scott works as an embedded systems/ML engineer at SICDrone. In his off times, you can find him in his bedroom making tunes and strumming away on an electric guitar!"
+  image: img/headshots/
+- name: Paul Katsiaunis
+  title: Managing Partner
+  testimonial: "Paul Katsiaunis is a Managing Partner for the Rising Tides Research Group and currently a Medical Student at Tufts University School of Medicine. A native of Tenafly, NJ, he obtained his B.S. in Biopsychology from Tufts University where he was a member of the Men’s Water Polo team. At age 16, Paul founded Greece Lacrosse Association, establishing Lacrosse in Greece, and currently contributes on its Board of Directors. Paul is the Captain of the Greece Men’s National Lacrosse Team that competed at the 2018 World Championship and he is setting his sights towards the 2028 Summer Olympics. He loves surfing, walking his chocolate lab Zeus, and is an accomplished classical pianist, having performed in venues such as Carnegie Hall and Steinway Hall in New York City."
+  image: img/headshots/Paul.jpeg
+- name: Liam Durant
+  title: Senior Unpaid Software Intern
+  testimonial: "Liam Durant is a software engineer who graduated from Tufts University with a Bachelor of Science in Computer Engineering in 2020. He has worked on a plethora of projects in the crypto space starting in 2018 with a bot that tracked orchestrated pump and dump groups, aiming to take advantage of human psychology. After hedges ran him out, he started to pursue actual blockchain usage in the form of smart contract development. Liam will be developing on chains outside of Ethereum, starting with ICON. He believes blockchain technology is one of the most groundbreaking inventions mainly due to its simplicity, efficiency and most importantly how it eliminates the need for subjective trust in a society that demands it constantly. His favorite food is chocolate chip pancakes with real fucking maple syrup."
+  image: img/headshots/Liam.jpeg
+- name: Jack Ashford
+  title: Junior Paid Software Intern
+  testimonial: "Jack is a 2020 University Honors Program (UHP) graduate from The George Washington University with a Bachelor of Science (BS) in Computer Science. His main software engineering experience has been focused in automation and continuous integration methodologies as well as post-failure triaging techniques. His knowledge of languages consists of Python, Linux, Java, and Solidity."
+  image: img/headshots/Jack.png
+- name: Patrick Owens
+  title: Technical Solutions Specialist
+  testimonial: "Patrick Owens is a Software Engineer and Business Liaison for the Rising Tides Research Group, which he joined in 2021. Born and raised in Tenafly, New Jersey, he obtained his BSE in the fields of Biomedical and Electrical Engineering from Case Western Reserve University. He is passionate about software development and is eager to seek out novel methods to modernize the financial and healthcare sectors with blockchain technology. Outside of the office, he loves to go hiking and rock climbing to stay healthy. Plantains are his favorite food to cook with because of the many different ways in which it can be prepared."
+  image: img/headshots/Patrick.png
+- name: Teddy Einseidler
+  title: Project Manager
+  testimonial: "Teddy is one of the team’s Project Managers with a focus on the software side. He is beginning his time as a Lead Data Science Intern at HigherMe. Teddy has just completed his coursework for a Master’s in Health Data Science at Dartmouth and is excited to get started applying what he's learned. Teddy loves swimming, playing football, and screenwriting, and is an avid Spider-Man fan, which lead to his lab work and general interest in genetics."
+  image: img/headshots/Teddy.jpeg
+- name: Eddie Happle
+  title: Business Man
+  testimonial: "Business is booming."
   image: img/item-img1.jpg
-- name: Rose Ray jr.
-  title: CEO-Themefisher
-  testimonial: "With the tools to make our business a success, this company created an e-commerce site, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
-  image: img/item-img1.jpg
-- name: Rose Ray III
-  title: CEO-Themefisher
-  testimonial: "We feel that our site has unique elements that make us stand out from the crowd. This company created an e-commerce site with the tools to make our business a success, with innovative ideas."
-  image: img/item-img1.jpg
+  

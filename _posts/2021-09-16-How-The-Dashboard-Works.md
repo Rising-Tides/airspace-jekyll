@@ -2,6 +2,7 @@
 layout: post
 title: "How the Dashboard Works"
 author: "RTRG Software Team"
+img:   "Dashboard Outline.png"
 ---
 
 The inflation dashboard takes an aggregation of price data from vendors, retailers, and suppliers across the globe to create a basket of up-to-date pricing info from primary sources.
